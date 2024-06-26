@@ -25,4 +25,4 @@ if result == 0:
 elif result > 0:
     print(f'man{result} Win')
 else:
-    print(f'man{result} Win')
+    print(f'man{result+3} Win')
